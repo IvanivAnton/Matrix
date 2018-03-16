@@ -3,3 +3,8 @@
 *.xml___jb_tmp___
 *.xml
 .idea/workspace.xml
+.idea/workspace.xml
+*.exe
+*.a
+*.obj
+*.xml
