@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Matrix/Matrix.hxx
+iostream
+-
+string
+-
+
+D:/Matrix/main.cpp
+iostream
+-
+Matrix.hxx
+D:/Matrix/Matrix.hxx
+
